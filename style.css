@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: 100px;
+}
+
+#head1 {
+    font-family: 'Bitter', serif;
+}
+
+#head2 {
+    font-family: 'Playfair Display', serif;
+}
+
+#head3 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#apps {
+    background-color: darkviolet;
+    color: yellow;
+    height: 800px;
+    width: 100%;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+img {
+    transition: transform .2s;
+    margin: 10px;
+    height: 352px;
+    width: 351px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+a {
+    text-decoration: none;
+}
+
+#games {
+    background-color: cyan;
+    color: black;
+    height: 800px;
+    width: 100%;
+}
+
+#chatbots {
+    background-color: crimson;
+    color: blueviolet;
+    height: 800px;
+    width: 100%;
+}
